@@ -1,0 +1,8 @@
+init
+status
+add
+commit
+push
+checkout
+clone
+merge
