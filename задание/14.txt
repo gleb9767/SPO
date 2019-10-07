@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+<meta charset="UTF-8">
+<title>Document</title>
+  <style>
+   table 
+   {
+    margin: auto; /* Выравниваем таблицу по центру окна  */
+   }
+  </style>
+</head>
+
+<body>
+	<header>
+	<a href=""><img src=" картинка/KiBs.png" hspace="380" vspace="40"></a>
+	<nav>
+		<a href="" ><img src="картинка/KiBs.png"></a>	<a href=""><img src="картинка/KiBs.png"></a>	<a href=""><img src="картинка/KiBs.png"></a>
+	</nav>
+	</header>
+
+	<section>
+<br>
+<br>
+<br>
+		<p><img src="картинка/fb.png" align="left">
+		<h1> WONDERFUL </h1>
+		<h2> DESIGN IN EVERY PIXELS </h2>
+		<p> People are definitely a company's greatest asset. It doesn't make any difference whether <br> 
+		the product is cars or cosmetics. A company is only as good as the people it keeps. </p>
+		<a href=""> LETS ROCK </a>
+		<a href=""> SUBSCRIBE </a></p>
+<br>
+<br>
+<br>
+<br>
+		<h1 align="center"> WHO WE ARE </h1>
+		<p align="center"> The first The first requirement for an user experience is to meet the <br>
+		exact needs of the customer. </p>
+<br>
+<br>
+<br>
+<br>
+		<table border="1">
+			<tr>
+				<td><h4 align="center"> Online Support </h4>
+					<p align="center"> Class aptent taciti sociosutn <br> tora torquent conub nost <br> reptos himenaeos. </p></td>
+				<td><h4 align="center"> User Interface </h4>
+					<p align="center"> Class aptent taciti sociosutn <br> tora torquent conub nost <br> reptos himenaeos.  </p></td>
+				<td><h4 align="center"> Easy to Setup </h4>
+					<p align="center"> Class aptent taciti sociosutn <br> tora torquent conub nost <br> reptos himenaeos.  </p></td>
+				<td><h4> <h4 align="center"> Get New Update </h4>
+					<p align="center"> Class aptent taciti sociosutn <br> tora torquent conub nost <br> reptos himenaeos.  </p></td>
+			</tr>
+		</table>
+<br>
+<br>
+<br>
+<br>
+		<h1> WHAT YOU GET </h1>
+		<br><br>
+		<p><img src="картинка/Phone.png" align="right"> 
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <br> 
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <br> 
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo <br>
+		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum <br>
+		dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatatlore magnam <br>
+		aliquam quaerat voluptatem.</p>
+		<br><br><br>
+		<a href=""> GET IT NOW </a>
+<br>
+<br>
+<br>
+<br>
+		<h1 align="center"> OUR PORTFOLIO </h1>
+		<p align="center"> The first The first requirement for an user experience is to meet the <br>
+		exact needs of the customer. </p>
+		<nav>
+			<p align="center"><a href="" >ALL</a>	<a href="">CREATIVE</a>	   <a href="">BUSINESS</a>     <a href="">BRANDING</a> </p>
+		</nav>
+		<table border="1">
+			<tr>
+				<td><img src="картинка/Layer 6.png"></td>
+				<td><img src="картинка/Layer 6.png"></td>
+				<td><img src="картинка/Layer 6.png"></td>
+			</tr>
+			<tr>
+				<td><img src="картинка/Layer 6.png"></td>
+				<td><img src="картинка/Layer 6.png"></td>
+				<td><img src="картинка/Layer 6.png"></td>
+			</tr>
+		</table>
+<br>
+<br>
+<br>
+<br>
+		<h1 align="center"> OUR TEAM </h1>
+		<p align="center"> The first The first requirement for an user experience is to meet the <br>
+		exact needs of the customer. </p>
+<br>
+<br>
+<br>
+<br>
+		<table border="1">
+			<tr>
+				<td>
+					<img src="картинка/Layer 9.png">
+					<br>
+					<br>
+					<h4 align="center"> Reena Scot </h4>
+					<p align="center"> Phasellus vehicula justo eget diam posuere <br>
+						sollicitudin eu tincidunt nulla. </p>
+				</td>
+				<td>
+					<img src="картинка/Layer 8.png">
+					<h4 align="center"> David Martin </h4>
+					<p align="center"> Phasellus vehicula justo eget diam posuere <br>
+						sollicitudin eu tincidunt nulla. </p>
+				</td>
+				<td>	
+					<img src="картинка/Layer 10.png">
+					<h4 align="center"> Jhon White </h4>
+					<p align="center"> Phasellus vehicula justo eget diam posuere <br>
+						sollicitudin eu tincidunt nulla. </p>
+				</td>
+			</tr>
+		</table>
+<br>
+<br>
+<br>
+<br>
+		<h1 align="center"> JOIN US & FREE SUBSCRIBE </h1>
+		<p align="center"> The first The first requirement for an user experience is to meet the <br>
+		exact needs of the customer. </p>
+		<p>Your Mail   <a href=""> SEND </a> </p>
+		<img src="картинка/KiBs1.png">
+		<p align="center">2017 - ThemeEpert All Right Reserved</p>		
+	</section>		
+</body>
+
+</html>
