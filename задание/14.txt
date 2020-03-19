@@ -237,7 +237,7 @@
                     </p>
                 </div>
                 <form action="handler.php">
-                    <p>Your Mail</p>
+                    <input type="text" placeholder="Your Mail">
                     <div class="кнопка5">
                         <a href=""> SEND </a>
                     </div>
